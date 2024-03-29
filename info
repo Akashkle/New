@@ -1,4 +1,6 @@
-ajajakk
-sjdjjd
-sdjjsdjks
-asjdjdj
+#include<stdio.h>
+void main()
+{
+printf("hi");
+return(0);
+}
